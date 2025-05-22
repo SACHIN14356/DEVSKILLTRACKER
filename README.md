@@ -1,4 +1,4 @@
-# DevSkillTracker 🎯  
+# DevSkillTracker 🎯  - Frontend - [Self-Initiated Project] .
 A skill-based video learning and tracking platform built with HTML, CSS, and JavaScript.
 
 ---
