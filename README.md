@@ -23,5 +23,13 @@ A skill-based video learning and tracking platform built with HTML, CSS, and Jav
 - JavaScript  
 
 ---
+## 🔮 Future Plans
+
+- **User Authentication** – Implement secure login and personalized user profiles  
+- **Progress Dashboard** – Add visual analytics to track learning activity and engagement  
+- **Backend Integration** – Connect to a backend for persistent user data storage  
+- **Advanced Gamification** – Expand with badges, levels, and reward systems  
+- **Resume & API Support** – Enable export of verified progress for resumes and portfolios
+
 
 📁 **Project Structure**
