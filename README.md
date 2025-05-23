@@ -32,4 +32,4 @@ A skill-based video learning and tracking platform built with HTML, CSS, and Jav
 - **Resume & API Support** – Enable export of verified progress for resumes and portfolios
 
 
-📁 **Project Structure**
+
